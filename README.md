@@ -1,2 +1,2 @@
-# machine-learning
-Test bibliothèques de machine learning
+# Machine Learning
+Tests des bibliothèques de machine learning (WIP)
